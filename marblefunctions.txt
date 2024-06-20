@@ -1,0 +1,20 @@
+def reset():
+its to reset the board if player wishes to play again
+def win(l):
+to check if the game is won (i.e., one marble left in centre)
+def alter(l):
+to decide the alternative endings of the game if the game is not won
+def validstarts(x,y):
+to check if the starting marble chosen (marble picked to move) is valid or not
+def validfinals(sx_,sy_,fx_,fy_):
+to check if the final sport (the place you want to move the marble to) is valid or not
+def moves(l):
+to check whether moves are available or the game has come to an end
+def which_button(button_press):
+to see which button is being clicked and redirect the program to necessary functions like validstarts/validfinals
+def game(l):
+starts with the gameplay 
+def click():
+to obtain username and age on click of login button
+def click2():
+to move to gamewindow
